@@ -25,7 +25,7 @@ E-commerce Website using MERN stack. Backend  : Nodejs Mongodb Express.  Fronten
 
  
 **For Backend**
- 1. `git clone 
+ 1. `git clone https://github.com/Parth143Ahir/E-commerce-Website.git
  2. `cd e-comerce-backend`
  3. `yarn`
  4. `yarn data:import`
